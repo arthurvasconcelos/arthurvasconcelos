@@ -24,6 +24,9 @@
 [<img align="left" alt="arthurvasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />][codersrank]
 [<img align="left" alt="avasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
 
+<br />
+<br />
+
 ---
 
 <img align="left" alt="Arthur's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurvasconcelos&show_icons=true&hide_border=true" />
