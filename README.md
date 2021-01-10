@@ -1,9 +1,9 @@
 # Hi there, I am [Arthur Vasconcelos][website] 🖖
 
-## I am a ✨Brazilian✨ currently living in Estonia.
+## I am a ✨Brazilian✨ currently living in Sweden.
 
-- 🔭 I’m currently working at [Genius Sports][company]
-- 🌱 I’m currently learning a lot about DevOps.
+- 🔭 I’m currently working at [Kognity][company]
+- 🌱 I’m currently learning more about Python.
 - 📦 Some of my open-source projects:
   - [![vue-izitoast](https://img.shields.io/website?label=vue-izitoast&style=flat-square&url=https://github.com/arthurvasconcelos/vue-izitoast)](https://github.com/arthurvasconcelos/vue-izitoast) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![Build Status](https://travis-ci.org/arthurvasconcelos/vue-izitoast.svg?branch=master&style=flat-square)](https://travis-ci.org/arthurvasconcelos/vue-izitoast)
   - [![vue-cbsc](https://img.shields.io/website?label=vue-cbsc&style=flat-square&url=https://github.com/arthurvasconcelos/vue-cbsc)](https://github.com/arthurvasconcelos/vue-cbsc) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc)
@@ -31,7 +31,7 @@
 <img align="left" alt="Arthur's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurvasconcelos&show_icons=true&hide_border=true" />
 
 [website]: https://arthurvasconcelos.com.br/
-[company]: https://www.geniussports.com/
+[company]: https://github.com/kognity
 [twitter]: https://twitter.com/jookeringa
 [stackoverflow]: https://stackoverflow.com/users/3130385/arthur-vasconcelos
 [linkedin]: https://www.linkedin.com/in/arthurvasconcelos/
