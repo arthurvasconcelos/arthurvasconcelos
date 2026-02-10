@@ -2,8 +2,8 @@
 
 ## I am a ✨Brazilian✨ currently living in Sweden.
 
-- 🔭 I’m currently looking for my next opportunity
-- 🌱 I’m currently learning more about Python.
+- 🔭 I’m currently working for PLatform24.
+- 🌱 I’m currently learning more about Python and Java.
 - 📦 Some of my open-source projects:
   - [![vue-izitoast](https://img.shields.io/website?label=vue-izitoast&style=flat-square&url=https://github.com/arthurvasconcelos/vue-izitoast)](https://github.com/arthurvasconcelos/vue-izitoast) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![Build Status](https://travis-ci.org/arthurvasconcelos/vue-izitoast.svg?branch=master&style=flat-square)](https://travis-ci.org/arthurvasconcelos/vue-izitoast)
   - [![vue-cbsc](https://img.shields.io/website?label=vue-cbsc&style=flat-square&url=https://github.com/arthurvasconcelos/vue-cbsc)](https://github.com/arthurvasconcelos/vue-cbsc) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc)
