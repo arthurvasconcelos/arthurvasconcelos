@@ -1,40 +1,46 @@
-# Hi there, I am [Arthur Vasconcelos][website] 🖖
+<div align="center">
 
-## I am a ✨Brazilian✨ currently living in Sweden.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Arthur+%F0%9F%96%96;Full+Stack+%26+Platform+Engineer;Building+open+source+CLI+tooling;Brazilian+living+in+Sweden" alt="Typing SVG" />
 
-- 🔭 I’m currently working for Platform24.
-- 🌱 I’m currently learning more about Python and Java.
-- 📦 Some of my open-source projects:
-  - [![vue-izitoast](https://img.shields.io/website?label=vue-izitoast&style=flat-square&url=https://github.com/arthurvasconcelos/vue-izitoast)](https://github.com/arthurvasconcelos/vue-izitoast) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-izitoast.svg?style=flat-square)](https://www.npmjs.com/package/vue-izitoast) [![Build Status](https://travis-ci.org/arthurvasconcelos/vue-izitoast.svg?branch=master&style=flat-square)](https://travis-ci.org/arthurvasconcelos/vue-izitoast)
-  - [![vue-cbsc](https://img.shields.io/website?label=vue-cbsc&style=flat-square&url=https://github.com/arthurvasconcelos/vue-cbsc)](https://github.com/arthurvasconcelos/vue-cbsc) [![NPM Latest Package Release](https://img.shields.io/npm/v/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc) [![NPM Package Downloads](https://img.shields.io/npm/dt/vue-cbsc.svg?style=flat-square)](https://www.npmjs.com/package/vue-cbsc)
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+  <br/>
 
-## 📫 Connect with me
+  [![Website](https://img.shields.io/badge/arthurvasconcelos.com.br-F75C7E?style=flat-square&logo=googlechrome&logoColor=white)](https://arthurvasconcelos.com.br)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvasconcelos/)
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3130385/arthur-vasconcelos)
+  ![Profile Views](https://komarev.com/ghpvc/?username=arthurvasconcelos&color=F75C7E&style=flat-square&label=profile+views)
 
-[<img align="left" alt="arthurvasconcelos.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="@jooheringa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="3130385/arthur-vasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="arthurvasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arthurv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="arthurvasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />][codersrank]
-[<img align="left" alt="avasconcelos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
-
-<br />
-<br />
+</div>
 
 ---
 
-<img align="left" alt="Arthur's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurvasconcelos&show_icons=true&hide_border=true" />
+## About Me
 
-[website]: https://arthurvasconcelos.com.br/
-[company]: https://github.com/kognity
-[twitter]: https://twitter.com/jookeringa
-[stackoverflow]: https://stackoverflow.com/users/3130385/arthur-vasconcelos
-[linkedin]: https://www.linkedin.com/in/arthurvasconcelos/
-[hackerrank]: https://www.hackerrank.com/arthurv
-[codersrank]: https://profile.codersrank.io/user/arthurvasconcelos/
-[keybase]: https://keybase.io/avasconcelos
+- 🏢 Working at **[Platform24](https://platform24.com)** — building healthcare tech in Sweden
+- 🔨 Currently building [**overseer**](https://github.com/arthurvasconcelos/overseer) — a personal developer CLI in Go
+- 🌱 Deepening my knowledge of Go and CLI tooling
+- 🌐 Personal site: [arthurvasconcelos.com.br](https://arthurvasconcelos.com.br)
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,ts,py,vue,linux,git" />
+</div>
+
+## Open Source
+
+| Project | Description | |
+|---|---|---|
+| [**overseer**](https://github.com/arthurvasconcelos/overseer) | Personal developer CLI — morning briefings, standup gen, git identities, AI assistant & more | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**sqlalchemy-seedling**](https://github.com/arthurvasconcelos/seedling) | Async-native seeder & factory library for SQLAlchemy | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**homebrew-tap**](https://github.com/arthurvasconcelos/homebrew-tap) | Homebrew tap for distributing my tools on macOS | ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white) |
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurvasconcelos&show_icons=true&hide_border=true&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arthurvasconcelos&hide_border=true&theme=radical" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvasconcelos&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
