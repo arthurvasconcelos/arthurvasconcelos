@@ -28,11 +28,13 @@
 
 ## Open Source
 
-| Project | Description | |
-|---|---|---|
-| [**overseer**](https://github.com/arthurvasconcelos/overseer) | Personal developer CLI — morning briefings, standup gen, git identities, AI assistant & more | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**sqlalchemy-seedling**](https://github.com/arthurvasconcelos/seedling) | Async-native seeder & factory library for SQLAlchemy | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**homebrew-tap**](https://github.com/arthurvasconcelos/homebrew-tap) | Homebrew tap for distributing my tools on macOS | ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white) |
+| Project | Description | | Version |
+|---|---|---|---|
+| [**overseer**](https://github.com/arthurvasconcelos/overseer) | Personal developer CLI — morning briefings, standup gen, git identities, AI assistant & more | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![GitHub release](https://img.shields.io/github/v/release/arthurvasconcelos/overseer?style=flat-square) |
+| [**overseer-sdk**](https://pypi.org/project/overseer-sdk/) | Python SDK for building Overseer plugins | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PyPI](https://img.shields.io/pypi/v/overseer-sdk?style=flat-square) |
+| [**overseer-sdk**](https://www.npmjs.com/package/overseer-sdk) | TypeScript SDK for building Overseer plugins | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![npm](https://img.shields.io/npm/v/overseer-sdk?style=flat-square) |
+| [**sqlalchemy-seedling**](https://github.com/arthurvasconcelos/seedling) | Async-native seeder & factory library for SQLAlchemy | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PyPI](https://img.shields.io/pypi/v/sqlalchemy-seedling?style=flat-square) |
+| [**homebrew-tap**](https://github.com/arthurvasconcelos/homebrew-tap) | Homebrew tap for distributing my tools on macOS | ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white) | — |
 
 ## GitHub Stats
 
